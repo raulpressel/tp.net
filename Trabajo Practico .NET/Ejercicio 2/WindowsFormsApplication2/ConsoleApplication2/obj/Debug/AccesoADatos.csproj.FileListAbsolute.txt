@@ -1,0 +1,12 @@
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.dll.config
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.dll
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication1.dll
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\EntityFramework.dll
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\EntityFramework.xml
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.dll
+c:\users\martin\documents\visual studio 2013\Projects\WindowsFormsApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
